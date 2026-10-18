@@ -1,5 +1,4 @@
 node_modules
-.env
 .idea
 
 # Hardhat files
@@ -28,6 +27,10 @@ lcov.info
 create_issues_contract.sh
 issues_to_created_contract.md
 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
 
 # HH3 typechain output
 /types
@@ -35,3 +38,4 @@ branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
 .gitignore
+config.bat
